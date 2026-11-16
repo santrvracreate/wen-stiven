@@ -73,7 +73,8 @@ def history():
     </div></section>'''
 
 def teacher_card(t):
-    portrait=image(t['photo'],'Prof. '+t['name'],width=400,height=400) if t['photo'] else f'<div class="initials" role="img" aria-label="Iniciales de {escape(t["name"])}"><span>MR</span></div>'
+    initials=''.join(part[0] for part in t['name'].split()[:2]).upper()
+    portrait=image(t['photo'],'Prof. '+t['name'],width=400,height=400) if t['photo'] else f'<div class="initials" role="img" aria-label="Iniciales de {escape(t["name"])}"><span>{initials}</span></div>'
     paragraphs = ''.join('<p>'+escape(p)+'</p>' for p in t['bio'].split('\n\n') if p.strip())
     return f'''<article class="teacher-card" id="{t['id']}"><div class="teacher-photo">{portrait}</div><div class="teacher-copy"><p class="specialty">{' · '.join(areas[a] for a in t['areas'])}</p><h3><span>Prof.</span> {escape(t['name'])}</h3><div class="teacher-bio">{paragraphs}</div></div></article>'''
 

@@ -246,7 +246,7 @@ window.schoolStaff = {
       "areas": [
         "matematicas"
       ],
-      "photo": "profesores/matematicas/Gladys Marlene Arispe.jpg",
+      "photo": null,
       "bio": "Orienta el aprendizaje de operaciones, conceptos matemáticos y resolución de problemas. Su enseñanza contribuye al razonamiento lógico, al pensamiento crítico y a la capacidad de analizar distintas situaciones.\n\nPromueve la responsabilidad, la disciplina y la perseverancia como valores que ayudan a superar dificultades y alcanzar los objetivos académicos.\n\nComprender una situación, reconocer las relaciones entre sus elementos y buscar una solución forman parte del razonamiento matemático. El análisis y el pensamiento crítico permiten dar sentido a las operaciones y los conceptos. En ese recorrido, la responsabilidad y la perseverancia contribuyen a sostener el aprendizaje y a afrontar las dificultades con continuidad."
     },
     {
@@ -255,7 +255,7 @@ window.schoolStaff = {
       "areas": [
         "matematicas"
       ],
-      "photo": "profesores/matematicas/Jhenny Morales Espinoza.jpg",
+      "photo": null,
       "bio": "La profesora Jhenny Morales Espinoza integra el plantel de la Unidad Educativa José Leoncio Capriles en el área de Matemáticas. Esta asignatura constituye un espacio para el estudio de los números, las operaciones y las relaciones que permiten comprender y resolver situaciones matemáticas dentro de la formación escolar.\n\nEl conocimiento matemático reúne el razonamiento lógico, el análisis y la organización de la información. Comprender un problema, relacionar sus datos y valorar una solución son capacidades vinculadas con esta área. Su importancia trasciende el cálculo: las matemáticas aportan herramientas para interpretar cantidades, reconocer relaciones y abordar con claridad situaciones de la vida cotidiana y de otras disciplinas."
     },
     {
@@ -264,7 +264,7 @@ window.schoolStaff = {
       "areas": [
         "matematicas"
       ],
-      "photo": "profesores/matematicas/María del Carmen Caero.jpg",
+      "photo": null,
       "bio": "Orienta y acompaña a sus estudiantes en el aprendizaje de los números, las operaciones y la resolución de problemas matemáticos. Fortalece el razonamiento lógico, el pensamiento crítico y la capacidad de encontrar soluciones a distintas situaciones.\n\nSu enseñanza promueve la responsabilidad, la perseverancia y el esfuerzo como valores fundamentales para el aprendizaje y el logro de buenos resultados académicos.\n\nEl aprendizaje de los números y las operaciones se relaciona con la comprensión de los problemas y con la búsqueda de caminos para resolverlos. El razonamiento lógico permite organizar las ideas, mientras que el pensamiento crítico ayuda a valorar las soluciones. La perseverancia y el esfuerzo dan continuidad a este proceso de formación académica."
     },
     {
@@ -273,7 +273,7 @@ window.schoolStaff = {
       "areas": [
         "matematicas"
       ],
-      "photo": "profesores/matematicas/Nancy Acosta Sánchez.jpg",
+      "photo": null,
       "bio": "Enseña conceptos matemáticos, operaciones y resolución de problemas para fortalecer la formación académica. Desarrolla el razonamiento lógico, el pensamiento analítico y la capacidad de encontrar soluciones de manera ordenada y precisa.\n\nFomenta la responsabilidad, la disciplina y la perseverancia, e impulsa a sus estudiantes a afrontar los desafíos académicos con esfuerzo y dedicación.\n\nLa organización y la precisión son aspectos centrales del pensamiento matemático. Relacionar conceptos, operaciones y problemas permite comprender el sentido de las soluciones, además de sus resultados. La disciplina y la perseverancia acompañan el desarrollo de estas capacidades y ayudan a reconocer el esfuerzo como parte del aprendizaje ante los desafíos académicos."
     },
     {
